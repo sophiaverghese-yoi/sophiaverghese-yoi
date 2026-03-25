@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi, I'm Sophia 👋
+
+🎓 B.Tech Student at VIT Bhopal  
+💻 Learning programming and digital skills  
+🚀 Interested in technology and innovation  
+
+## Goals
+- Improve coding skills  
+- Build projects  
+- Learn new technologies  
 
 <!--
 **sophiaverghese-yoi/sophiaverghese-yoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
